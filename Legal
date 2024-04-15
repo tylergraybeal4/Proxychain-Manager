@@ -1,0 +1,31 @@
+This code makes use of the Tor network for routing internet traffic through a series of relays to provide anonymity and privacy for the user. Please read and understand the following points before using the code:
+
+Legal and Ethical Use:
+
+This code and the Tor network should be used in accordance with applicable local, national, and international laws and regulations.
+Use of the Tor network for illegal activities is strictly prohibited and may result in legal consequences.
+Anonymity and Privacy:
+
+While the Tor network provides a high level of anonymity and privacy, no network is completely foolproof.
+Users should not rely solely on the Tor network for complete privacy and security.
+Performance and Reliability:
+
+The Tor network may experience variable performance and reliability due to its decentralized and volunteer-operated nature.
+Users may encounter delays, connection issues, or changes in network behavior.
+Security Risks:
+
+Although the Tor network aims to protect users' privacy, there may still be security risks such as malicious exit nodes or potential vulnerabilities in the software.
+Users are advised to take additional precautions to protect their data and devices.
+Usage Restrictions:
+
+Users must respect the policies and terms of service of websites and services accessed through the Tor network.
+Misuse of the Tor network can result in restrictions or bans from certain websites or services.
+No Control Over Usage:
+
+This code was created for fun and learning purposes.
+The author of this code has no control over how users choose to use it.
+Users are responsible for their actions and how they utilize the code.
+No Warranty:
+
+The code and its associated use with the Tor network are provided "as is" without any warranties or guarantees.
+The author of this code shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the code or the Tor network.
