@@ -63,3 +63,10 @@ now press shift and :
 type wq and press enter
 
 test the new proxie by presseing the ping servers button
+
+
+XYZ
+----------------------
+i made this in like two days, i know its not very good and probably not useful to anyone but i thought id share it anyways lol if anyone wants to help make this better please do so, i would love the help making this project even more than what it is. But for now it kinda works so we'll just leave it at that haha. 
+
+if the feds are seeing this, i did this for fun. no harm intended :)
