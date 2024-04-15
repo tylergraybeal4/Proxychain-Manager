@@ -52,7 +52,7 @@ Adding more proxies
 ------------------------------
 press the edit proxychains config button to bring up the /etc/proxychains.conf file
 
-scroll to the button and press "S" on your keyboard, this will allow you to type
+scroll to the bottom and press "S" on your keyboard, this will allow you to type
 
 add a new proxy by entering the type, ip and port (for example. "socks5  142.54.239.1  4145")
 
